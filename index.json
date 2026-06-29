@@ -1,38 +1,35 @@
 {
   "vrindavan": {
     "basic": {
-      "city": "Vrindavan",
-      "temperature": 34,
-      "weather": "Warm"
+      "city": "Vrindavan"
     },
 
     "actions": {
       "bookStay": "https://yatradham.org/yatradham-destinations/uttar-pradesh/vrindavan.html",
-      "call": "1345"
+      "call": "9664842287"
     },
 
     "stay": {
-      "averageTempleDistance": "200 meters – 2 km",
+      "averageTempleDistance": "200 meters – 5.3 km",
       "averageCheckIn": "12:00 PM",
-      "averageCheckOut": "10:00 AM"
+      "averageCheckOut": "11:00 AM"
     },
 
     "darshan": {
-      "morning": "8:00 AM – 12:00 PM",
-      "evening": "4:30 PM – 8:30 PM",
+      "morning": "7:45 AM – 12:00 PM (Summer) | 8:45 AM – 1:00 PM (Winter)",
+      "evening": "5:30 PM – 9:30 PM (Summer) | 4:30 PM – 8:30 PM (Winter)",
 
       "aarti": {
-        "mangla": "4:30 AM",
-        "shringar": "7:30 AM",
-        "sandhya": "6:30 PM",
-        "shayan": "8:00 PM"
+        "Shringar Seva/Aarti": "8:00 AM (Summer) | 9:00 AM (Winter)",
+        "Rajbhog": "11:00 AM – 12:00 PM",
+        "Shayan Seva/Aarti": "8:30 PM – 9:30 PM (Summer) | 7:30 PM – 8:30 PM (Winter)"
       },
 
       "vip": {
-        "available": false,
-        "name": "",
-        "bookingUrl": "",
-        "contact": ""
+        "available": true,
+        "name": "Vrindavan Darshan Yatra (Full Day) | (Half Day)",
+        "bookingUrl": "https://temple.yatradham.org/puja/vrindavan-darshan-yatra-full-day",
+        "contact": "9484950052"
       },
 
       "prasad": {
@@ -42,27 +39,27 @@
     },
 
     "nearbyPlaces": [
-      {
-        "name": "Prem Mandir",
-        "distance": "2 km",
-        "description": "Beautiful marble temple famous for evening musical fountain and light show."
-      },
-      {
-        "name": "ISKCON Krishna Balaram Temple",
-        "distance": "1.5 km",
-        "description": "World-famous ISKCON temple dedicated to Sri Krishna and Balaram."
-      },
-      {
-        "name": "Nidhivan",
-        "distance": "900 meters",
-        "description": "Sacred grove believed to be the nightly Raas Leela place of Radha and Krishna."
-      },
-      {
-        "name": "Seva Kunj",
-        "distance": "700 meters",
-        "description": "Sacred garden associated with the divine pastimes of Radha and Lord Krishna."
-      }
-    ],
+  {
+    "name": "Prem Mandir",
+    "distance": "2 km from Banke Bihari Temple",
+    "description": "Beautiful marble temple famous for its evening musical fountain and light show."
+  },
+  {
+    "name": "ISKCON Krishna Balaram Temple",
+    "distance": "1.5 km from Banke Bihari Temple",
+    "description": "World-famous ISKCON temple dedicated to Sri Krishna and Balaram."
+  },
+  {
+    "name": "Nidhivan",
+    "distance": "900 m from Banke Bihari Temple",
+    "description": "Sacred grove believed to be the nightly Raas Leela place of Radha and Krishna."
+  },
+  {
+    "name": "Seva Kunj",
+    "distance": "700 m from Banke Bihari Temple",
+    "description": "Sacred garden associated with the divine pastimes of Radha and Krishna."
+  }
+],
 
     "transport": {
       "autoFare": "₹20–100",
@@ -97,31 +94,31 @@
 
     "parking": {
       "available": true,
-      "distanceFromTemple": "5–10 min walk",
+      "distanceFromTemple": "5–10 min walk from Banke Bihari Temple",
       "charges": "₹20–100 (depends on vehicle)"
     },
 
     "packages": [
       {
-        "name": "Vrindavan One Day Sightseeing Tour",
-        "bookingUrl": "",
-        "contact": ""
+        "name": "Vrindavan Mathura Tour Package",
+        "bookingUrl": "https://travel.yatradham.org/package/vrindavan-mathura-tour-package",
+        "contact": "9484950053"
       },
       {
-        "name": "Mathura–Vrindavan Sightseeing Tour",
-        "bookingUrl": "",
-        "contact": ""
+        "name": "Vrindavan Tour Packages",
+        "bookingUrl": "https://travel.yatradham.org/package/vrindavan-tour-packages",
+        "contact": "9484950053"
       },
       {
-        "name": "Govardhan & Barsana Day Trip",
-        "bookingUrl": "",
-        "contact": ""
+        "name": "For more Packages",
+        "bookingUrl": "https://travel.yatradham.org/",
+        "contact": "9484950053"
       }
     ],
 
     "contact": {
-      "pujaBooking": "",
-      "cabBooking": "",
+      "pujaBooking": "9484950052",
+      "cabBooking": "9484950053",
       "cabNote": "Local cab service is easily available throughout Vrindavan."
     }
   }
